@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content-heading,
+.Footer-heading{
+  background-image: linear-gradient(to bottom,#06286E,#164EC0);
+  -webkit-background-clip: text;
+  color: transparent;
+}
